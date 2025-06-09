@@ -33,6 +33,7 @@ PORT=3000
 4. Start server - npm run dev
 5. Open in browser: http://localhost:3000
 
+The deployed version - https://u06.netlify.app
 
 Figma design
 https://www.figma.com/design/hgsK9aSFwNJNk0N4R2OSii/Untitled?node-id=23-105&p=f&t=2K4a9IcXhZ3McHCw-0
